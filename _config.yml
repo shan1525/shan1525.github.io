@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Shahnawaz Aryan adil"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Post-Doctoral Reasearcher"
   location         : "Cuernavaca, Morelos, Mexico."
   email            : "shazadil14@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:shazadil14@email.com"
+      #url: "mailto:shazadil14@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://shan1525.github.io"
