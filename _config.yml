@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Shahnawaz Aryan adil"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Post-Doctoral Reasearcher"
+  bio              : "Post-Doctoral Reasearcher, ICF-UNAM"
   location         : "Cuernavaca, Morelos, Mexico."
   email            : "shazadil14@gmail.com"
   links:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/shan1525"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
