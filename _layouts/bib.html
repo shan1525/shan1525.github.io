@@ -1,10 +1,12 @@
 <li>
 
-  {% if entry.author contains "Adil, Shahnawaz A." %}
-    <strong>★</strong>
-  {% endif %}
+  {% assign ref = reference
+    | replace: "Adil, Shahnawaz A.", "<strong>Adil, Shahnawaz A.</strong>"
+    | replace: "Adil, Shahnawaz Aryan", "<strong>Adil, Shahnawaz Aryan</strong>"
+    | replace: "Adil, S. A.", "<strong>Adil, S. A.</strong>"
+  %}
 
-  {{ reference }}
+  {{ ref }}
 
   {% if entry.eprint %}
     [<a href="https://arxiv.org/abs/{{ entry.eprint }}" target="_blank">arXiv</a>]
