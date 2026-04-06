@@ -272,6 +272,9 @@ scholar:
 
   details_dir: publications
   details_layout: bibtex.html
+  highlight:
+  - "Adil, Shahnawaz A."
+  - "Adil, Shahnawaz Aryan"
 
 # mimic GitHub Pages with --safe
 whitelist:
