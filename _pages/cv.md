@@ -1,8 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 layout: single
 ---
-You can:
-- paste CV text  
-- OR embed PDF
