@@ -259,7 +259,7 @@ plugins:
   - jekyll-scholar
 
 scholar:
-  style: apa
+  style: numeric
   locale: en
   bibliography_template: bib
   source: ./_bibliography
@@ -271,11 +271,10 @@ scholar:
 
   replace_strings: true
 
-  details_dir: publications
-  details_layout: bib.html
   highlight:
-  - "Adil, Shahnawaz A."
-  - "Adil, Shahnawaz Aryan"
+    - "Adil, S. A."
+    - "Adil, Shahnawaz A."
+    - "Adil, Shahnawaz Aryan"
 
 # mimic GitHub Pages with --safe
 whitelist:
