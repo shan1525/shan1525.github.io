@@ -261,6 +261,7 @@ plugins:
 scholar:
   style: apa
   locale: en
+  bibliography_template: bib
   source: ./_bibliography
   bibliography: papers.bib
   sort_by: year
@@ -271,7 +272,7 @@ scholar:
   replace_strings: true
 
   details_dir: publications
-  details_layout: bibtex.html
+  details_layout: bib.html
   highlight:
   - "Adil, Shahnawaz A."
   - "Adil, Shahnawaz Aryan"
