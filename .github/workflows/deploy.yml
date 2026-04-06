@@ -7,8 +7,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   build:
@@ -22,11 +20,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
+          bundler-cache: true   # 🔥 IMPORTANT
 
       - name: Install dependencies
         run: |
-          gem install bundler
-          bundle install
+          bundle config set path vendor/bundle
+          bundle install --jobs 4 --retry 3
 
       - name: Build site
         run: bundle exec jekyll build
