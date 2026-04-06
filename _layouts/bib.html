@@ -1,4 +1,9 @@
 <li>
+
+  {% if entry.author contains "Adil, Shahnawaz A." %}
+    <strong>★</strong>
+  {% endif %}
+
   {{ reference }}
 
   {% if entry.eprint %}
@@ -8,4 +13,5 @@
   {% if entry.doi %}
     [<a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI</a>]
   {% endif %}
+
 </li>
