@@ -6,4 +6,4 @@ layout: single
 
 ## Publications
 
-{% bibliography %}
+{% bibliography --group_by year %}
