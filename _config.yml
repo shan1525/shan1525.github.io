@@ -21,9 +21,9 @@ title                    : "Shahnawaz Aryan Adil"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shahnawaz Aryan Adil"
-description              : "Welcome to my website!!"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+description              : "Cosmology researcher working on dark energy, cosmological tensions, and observational constraints."
+url                      : "https://shan1525.github.io"
+baseurl                  : ""
 repository               : "shan1525"# GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -113,30 +113,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shahnawaz Aryan adil"
+  name             : "Shahnawaz Aryan Adil"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Post-Doc, ICF-UNAM"
-  location         : "Cuernavaca, Morelos, Mexico."
+  bio              : "Postdoctoral researcher in cosmology at ICF-UNAM"
+  location         : "Cuernavaca, Mexico"
   email            : "shazadil14@gmail.com"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:shazadil14@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://shan1525.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:shazadil14@gmail.com"
+
+    - label: "INSPIRE"
+      icon: "fas fa-fw fa-book"
+      url: "https://inspirehep.net/authors/2726490"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/shan1525"
 
 # Site Footer
 footer:
