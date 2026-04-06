@@ -1,85 +1,57 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
-toc: true
+layout: single
+author_profile: true
+toc: false
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+## About Me
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+I am a cosmologist specializing in the study of non-standard field dynamics in cosmology. My research focuses on dark energy, large-scale structure, and current observational tensions such as the Hubble tension and the $S_8$ tension.
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+I obtained my PhD in Physics from Jamia Millia Islamia, New Delhi, India, where I worked on cosmological models involving non-standard fields and their observational implications. My doctoral thesis, *“Cosmological Dynamics of Non-Standard Fields in Light of Observations,”* was supervised by Dr. Somasri Sen and explored fundamental questions related to dark energy, dark matter, and possible modifications to gravity.
 
-## Notable Features
+Currently, I am a postdoctoral researcher at the Instituto de Ciencias Físicas (ICF), Universidad Nacional Autónoma de México (UNAM), working under the supervision of Dr. José Alberto Vázquez. My research involves confronting theoretical cosmological models with observational datasets such as CMB, BAO, and supernova data.
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Bulgarian, Catalan, Chinese, Czech, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+## Research Interests
 
-## Demo Pages
+- Dark energy and scalar field models  
+- Cosmological tensions ($H_0$, $S_8$)  
+- Large-scale structure  
+- Modified gravity and non-standard cosmologies  
+- Data-driven cosmology and parameter estimation  
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+## Technical Skills
 
-For even more demo pages check the [posts archive][year-archive].
+I have strong experience in computational and data-driven cosmology, including:
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+- **Programming:** Python, Bash  
+- **Scientific tools:** Mathematica, Matplotlib  
+- **Cosmology pipelines:** CLASS, MontePython, Cobaya, EMCEE  
+- **Data analysis:** MCMC, Bayesian inference, likelihood analysis  
 
----
+## Academic Background
 
-## Credits
+- **PhD in Physics (Cosmology)**  
+  Jamia Millia Islamia, New Delhi, India  
 
-### Icons + Demo Images:
+- **MSc in Physics (with distinction)**  
+  Jamia Millia Islamia, New Delhi, India  
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
+- **BSc in Physics**  
+  Jamia Millia Islamia, New Delhi, India  
 
-### Other:
+## Publications and Academic Activity
 
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
+I have published research articles in leading international journals, including:
 
----
+- *Physical Review D*  
+- *Monthly Notices of the Royal Astronomical Society (MNRAS)*  
+- *Physics of the Dark Universe*  
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+I have also presented my work at several national and international conferences and have been involved in teaching undergraduate physics laboratories.
+
+## Teaching
+
+I currently serve as a teaching assistant for the course *“Cosmology and Machine Learning”* at UNAM, assisting in both instruction and student mentoring.
