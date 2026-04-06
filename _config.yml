@@ -256,6 +256,17 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-scholar
+
+scholar:
+  style: apa
+  locale: en
+  source: ./_bibliography
+  bibliography: papers.bib
+  sort_by: year
+  order: descending
+  group_by: year
+  group_order: descending
 
 # mimic GitHub Pages with --safe
 whitelist:
