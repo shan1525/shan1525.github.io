@@ -3,7 +3,7 @@ name: Deploy Jekyll with Scholar
 on:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: write
