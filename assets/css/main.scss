@@ -26,3 +26,17 @@ search: false
 .pub-links a:hover {
   text-decoration: underline;
 }
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.feature-item {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background: #111; /* for dark theme */
+}
