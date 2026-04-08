@@ -267,6 +267,8 @@ scholar:
   sort_by: year
   order: descending
   group_by: year
+  bibliography_list_tag: div
+  bibliography_item_tag: div
   group_order: descending
 
   replace_strings: true
