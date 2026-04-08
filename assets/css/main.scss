@@ -7,3 +7,22 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+.pub-entry {
+  margin-bottom: 1.3em;
+  line-height: 1.6;
+}
+
+.pub-links {
+  margin-top: 3px;
+}
+
+.pub-links a {
+  margin-right: 10px;
+  font-size: 0.9em;
+  color: #1f77b4;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
