@@ -4,11 +4,9 @@ on:
   pull_request:
     branches:
       - main
-      - gh-pages
   push:
     branches:
       - main
-      - gh-pages
 
 jobs:
   check:
