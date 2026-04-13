@@ -7,7 +7,7 @@ subtitle: Postdoctoral Researcher in Cosmology | ICF-UNAM
 profile:
   align: right
   image: profile2.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
     <p><strong>Instituto de Ciencias Físicas (ICF)</strong></p>
     <p>Universidad Nacional Autónoma de México (UNAM)</p>
@@ -49,7 +49,6 @@ I combine observational datasets (DESI, Planck, Pantheon+) with theoretical mode
 - Cosmological parameter estimation  
 - Observational tensions ($H_0$, $S_8$)  
 
-## Selected Publications
 
 ## Contact
 
