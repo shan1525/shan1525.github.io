@@ -1,21 +1,16 @@
 cv:
   name: Shahnawaz Aryan Adil
-  label: "Postdoctoral Researcher"
+  label: Postdoctoral Researcher in Cosmology
   email: shazadil14@gmail.com
   location: Cuernavaca, Mexico
-  image: assets/img/profile2.jpg
-
-  summary: >
-    Postdoctoral researcher at ICF-UNAM working on late-time cosmology,
-    dark energy reconstruction, scalar field models, and cosmological tensions
-    including the Hubble tension and S8 tension.
+  image: ""
+  summary: Postdoctoral researcher at ICF-UNAM working on late-time cosmology, dark energy reconstruction, scalar field models, and cosmological tensions including the Hubble tension and S8 tension.
 
   social_networks:
-    - network: github
+    - network: GitHub
       username: shan1525
-
-    - network: orcid
-      username: "0000-0000-0000-0000"
+    - network: LinkedIn
+      username: ""   # optional (keep empty or remove if not used)
 
   sections:
 
@@ -26,10 +21,65 @@ cv:
         studyType: PhD in Cosmology
         start_date: 2019
         end_date: 2024
+        highlights:
+          - Cosmological scalar field dynamics
+          - Dark energy phenomenology
+          - Observational constraints using SN, BAO, and CMB
 
     Experience:
-      - company: "Instituto de Ciencias Físicas (ICF), UNAM"
+      - company: Instituto de Ciencias Físicas (ICF), UNAM
         position: Postdoctoral Researcher
         location: Cuernavaca, Mexico
         start_date: 2024
         end_date: present
+        summary: Research on late-time cosmology, dark energy reconstruction, and cosmological tensions using DESI, Planck, and Pantheon+ datasets.
+        highlights:
+          - Scalar field reconstruction of dark energy
+          - Analysis of Hubble and S8 tensions
+          - Bayesian parameter estimation using MontePython, Cobaya, and CLASS
+
+    Publications:
+      - title: "Background-level reconstruction of scalar-field potentials from dark-energy histories"
+        authors:
+          - Shahnawaz A. Adil
+          - Miguel A. Zapata
+          - Özgür Akarsu
+          - J. Alberto Vazquez
+        publisher: arXiv
+        releaseDate: 2026
+        url: https://arxiv.org/abs/2603.14693
+
+      - title: "Omnipotent dark energy: A phenomenological answer to the Hubble tension"
+        authors:
+          - Shahnawaz A. Adil
+          - Özgür Akarsu
+          - Eleonora Di Valentino
+          - Rafael C. Nunes
+        publisher: Phys. Rev. D
+        releaseDate: 2024
+        url: https://arxiv.org/abs/2306.08046
+
+      - title: "Dark energy in light of early JWST observations"
+        authors:
+          - Shahnawaz A. Adil
+          - Upala Mukhopadhyay
+          - Anjan A. Sen
+        publisher: JCAP
+        releaseDate: 2023
+        url: https://arxiv.org/abs/2307.12763
+
+    Skills:
+      - name: Cosmology
+        level: Advanced
+        keywords: "Dark Energy, Scalar Fields, Parameter Estimation"
+
+      - name: Programming
+        level: Advanced
+        keywords: "Python, CLASS, MontePython, Cobaya, MPI"
+
+    Languages:
+      - name: English
+        summary: Fluent
+
+      - name: Hindi
+        summary: Native
