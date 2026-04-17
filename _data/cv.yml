@@ -14,44 +14,55 @@ cv:
         location: New Delhi, India
         area: Physics
         studyType: PhD in Cosmology
-        start_date: 2019
-        end_date: 2024
+        start_date: "2019"
+        end_date: "2024"
         highlights:
-          - Cosmological scalar field dynamics
-          - Dark energy phenomenology
-          - Observational constraints using SN, BAO, and CMB
+          - Research on dark energy and late-time cosmology
+          - Scalar field dynamics and modified gravity
+          - Analysis using SN, BAO, and CMB datasets
 
     Experience:
       - company: Instituto de Ciencias Físicas (ICF), UNAM
         position: Postdoctoral Researcher
         location: Cuernavaca, Mexico
-        start_date: 2024
-        end_date: present
-        summary: Research on late-time cosmology, dark energy reconstruction, and cosmological tensions using DESI, Planck, and Pantheon+ datasets.
+        start_date: "2024"
+        end_date: "present"
+        summary: Research in late-time cosmology and dark energy reconstruction.
         highlights:
-          - Scalar field reconstruction of dark energy
-          - Analysis of Hubble and S8 tensions
-          - Bayesian parameter estimation using MontePython, Cobaya, and CLASS
+          - Reconstruction of scalar-field potentials from observational data
+          - Study of Hubble ($H_0$) and $S_8$ tensions
+          - Bayesian inference using CLASS, MontePython, and Cobaya
+          - Analysis of DESI, Planck, and Pantheon+ datasets
+
+    Research Interests:
+      - name: Cosmology
+        keywords: "Dark Energy, Late-time Universe, Hubble tension, S8 tension"
+
+      - name: Theory
+        keywords: "Scalar fields, Quintom models, Modified gravity"
+
+      - name: Data Analysis
+        keywords: "Parameter estimation, Bayesian inference, MCMC, Nested sampling"
 
     Publications:
-      - title: "Background-level reconstruction of scalar-field potentials from dark-energy histories"
+      - title: "⭐ Background-level reconstruction of scalar-field potentials from dark-energy histories"
         authors:
           - Shahnawaz A. Adil
           - Miguel A. Zapata
           - Özgür Akarsu
           - J. Alberto Vazquez
         publisher: arXiv
-        releaseDate: 2026
+        releaseDate: "2026"
         url: https://arxiv.org/abs/2603.14693
 
-      - title: "Omnipotent dark energy: A phenomenological answer to the Hubble tension"
+      - title: "⭐ Omnipotent dark energy: A phenomenological answer to the Hubble tension"
         authors:
           - Shahnawaz A. Adil
           - Özgür Akarsu
           - Eleonora Di Valentino
           - Rafael C. Nunes
         publisher: Phys. Rev. D
-        releaseDate: 2024
+        releaseDate: "2024"
         url: https://arxiv.org/abs/2306.08046
 
       - title: "Dark energy in light of early JWST observations"
@@ -60,17 +71,32 @@ cv:
           - Upala Mukhopadhyay
           - Anjan A. Sen
         publisher: JCAP
-        releaseDate: 2023
+        releaseDate: "2023"
         url: https://arxiv.org/abs/2307.12763
+
+      - title: "Negative cosmological constant in the dark energy sector"
+        authors:
+          - Nicola Menci
+          - Shahnawaz A. Adil
+          - Upala Mukhopadhyay
+          - Anjan A. Sen
+          - Sunny Vagnozzi
+        publisher: JCAP
+        releaseDate: "2024"
+        url: https://arxiv.org/abs/2401.12659
 
     Skills:
       - name: Cosmology
         level: Advanced
-        keywords: "Dark Energy, Scalar Fields, Parameter Estimation"
+        keywords: "Dark Energy, Cosmological tensions, Large-scale structure"
 
       - name: Programming
         level: Advanced
         keywords: "Python, CLASS, MontePython, Cobaya, MPI"
+
+      - name: Methods
+        level: Advanced
+        keywords: "MCMC, Nested Sampling, Gaussian Processes"
 
     Languages:
       - name: English
