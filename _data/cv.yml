@@ -41,32 +41,32 @@ cv:
           and cosmological tensions using observational datasets such as DESI,
           Planck, and Pantheon+.
 
-    Publications:
-      - title: Background-level reconstruction of scalar-field potentials from dark-energy histories
-        authors:
-          - Shahnawaz A. Adil
-          - Miguel A. Zapata
-          - Özgür Akarsu
-          - J. Alberto Vazquez
-        releaseDate: 2026
-        url: https://arxiv.org/abs/2603.14693
+Publications:
+  - title: "Background-level reconstruction of scalar-field potentials from dark-energy histories"
+    authors:
+      - Shahnawaz A. Adil
+      - Miguel A. Zapata
+      - Özgür Akarsu
+      - J. Alberto Vazquez
+    releaseDate: 2026
+    url: https://arxiv.org/abs/2603.14693
 
-      - title: Omnipotent dark energy: A phenomenological answer to the Hubble tension
-        authors:
-          - Shahnawaz A. Adil
-          - Özgür Akarsu
-          - Eleonora Di Valentino
-          - Rafael C. Nunes
-        releaseDate: 2024
-        url: https://arxiv.org/abs/2306.08046
+  - title: "Omnipotent dark energy: A phenomenological answer to the Hubble tension"
+    authors:
+      - Shahnawaz A. Adil
+      - Özgür Akarsu
+      - Eleonora Di Valentino
+      - Rafael C. Nunes
+    releaseDate: 2024
+    url: https://arxiv.org/abs/2306.08046
 
-      - title: Dark energy in light of early JWST observations
-        authors:
-          - Shahnawaz A. Adil
-          - Upala Mukhopadhyay
-          - Anjan A. Sen
-        releaseDate: 2023
-        url: https://arxiv.org/abs/2307.12763
+  - title: "Dark energy in light of early JWST observations"
+    authors:
+      - Shahnawaz A. Adil
+      - Upala Mukhopadhyay
+      - Anjan A. Sen
+    releaseDate: 2023
+    url: https://arxiv.org/abs/2307.12763
 
     Skills:
       - name: Cosmology
