@@ -1,9 +1,9 @@
 cv:
   name: Shahnawaz Aryan Adil
-  label: Postdoctoral Researcher
+  label: "Postdoctoral Researcher"
   email: shazadil14@gmail.com
   location: Cuernavaca, Mexico
-  image: profile2.jpg
+  image: assets/img/profile2.jpg
 
   summary: >
     Postdoctoral researcher at ICF-UNAM working on late-time cosmology,
@@ -14,11 +14,8 @@ cv:
     - network: github
       username: shan1525
 
-    - network: google scholar
-      username: https://scholar.google.com/citations?user=XXXXX
-
     - network: orcid
-      username: 0000-0000-0000-0000
+      username: "0000-0000-0000-0000"
 
   sections:
 
@@ -29,10 +26,6 @@ cv:
         studyType: PhD in Cosmology
         start_date: 2019
         end_date: 2024
-        highlights:
-          - Cosmological scalar field dynamics
-          - Dark energy phenomenology
-          - Observational constraints using SN, BAO, CMB
 
     Experience:
       - company: "Instituto de Ciencias Físicas (ICF), UNAM"
@@ -40,23 +33,3 @@ cv:
         location: Cuernavaca, Mexico
         start_date: 2024
         end_date: present
-        summary: >
-          Research on late-time cosmology, dark energy reconstruction,
-          and cosmological tensions using observational datasets such as DESI,
-          Planck, and Pantheon+.
-
-    Skills:
-      - name: Cosmology
-        level: Advanced
-        keywords: Dark Energy, Scalar Fields, Parameter Estimation
-
-      - name: Programming
-        level: Advanced
-        keywords: Python, CLASS, MontePython, Cobaya, MPI
-
-    Languages:
-      - name: English
-        summary: Fluent
-
-      - name: Hindi
-        summary: Native
