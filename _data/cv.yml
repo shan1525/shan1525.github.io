@@ -1,16 +1,11 @@
 cv:
   name: Shahnawaz Aryan Adil
-  label: Postdoc
   email: shazadil14@gmail.com
   location: Cuernavaca, Mexico
-  image: null
-  summary: Postdoctoral researcher at ICF-UNAM working on cosmology and dark energy.
-  
+
   social_networks:
     - network: GitHub
       username: shan1525
-    - network: LinkedIn
-      username: ""   # optional (keep empty or remove if not used)
 
   sections:
 
