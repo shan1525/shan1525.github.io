@@ -500,11 +500,11 @@ ninja.data = [{
           window.open("mailto:%73%68%61%7A%61%64%69%6C%31%34@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/2726490", "_blank");
+          window.open("https://github.com/shan1525", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -521,11 +521,11 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0003-4999-7801", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-inspire',
+        title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/shan1525", "_blank");
+          window.open("https://inspirehep.net/authors/2726490", "_blank");
         },
       },{
         id: 'social-rss',
