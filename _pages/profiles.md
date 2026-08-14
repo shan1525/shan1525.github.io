@@ -8,7 +8,7 @@ nav_order: 7
 
 profiles:
   - align: right
-    image: somasri_sen.jpg
+    image: prof_pic_color.png
     content: somasri_sen.md
     image_circular: true
     more_info: >
@@ -16,7 +16,7 @@ profiles:
       <p>Jamia Millia Islamia, New Delhi, India</p>
 
   - align: left
-    image: jose_alberto_vazquez.jpg
+    image: prof_pic_color.png
     content: jose_alberto_vazquez.md
     image_circular: true
     more_info: >
@@ -24,7 +24,7 @@ profiles:
       <p>ICF–UNAM, Cuernavaca, Mexico</p>
 
   - align: right
-    image: eleonora_di_valentino.jpg
+    image: prof_pic_color.png
     content: eleonora_di_valentino.md
     image_circular: true
     more_info: >
@@ -32,7 +32,7 @@ profiles:
       <p>University of Sheffield, United Kingdom</p>
 
   - align: left
-    image: anjan_ananda_sen.jpg
+    image: prof_pic_color.png
     content: anjan_ananda_sen.md
     image_circular: true
     more_info: >
@@ -40,7 +40,7 @@ profiles:
       <p>Centre for Theoretical Physics, Jamia Millia Islamia</p>
 
   - align: right
-    image: ozgur_akarsu.jpg
+    image: prof_pic_color.png
     content: ozgur_akarsu.md
     image_circular: true
     more_info: >
@@ -48,7 +48,7 @@ profiles:
       <p>Istanbul Technical University, Türkiye</p>
 
   - align: left
-    image: sunny_vagnozzi.jpg
+    image: prof_pic_color.png
     content: sunny_vagnozzi.md
     image_circular: true
     more_info: >
@@ -56,7 +56,7 @@ profiles:
       <p>University of Trento, Italy</p>
 
   - align: right
-    image: miguel_alfonso_zapata.jpg
+    image: prof_pic_color.png
     content: miguel_alfonso_zapata.md
     image_circular: true
     more_info: >
@@ -64,7 +64,7 @@ profiles:
       <p>ICF–UNAM, Cuernavaca, Mexico</p>
 
   - align: left
-    image: mariam_bouhmadi_lopez.jpg
+    image: prof_pic_color.png
     content: mariam_bouhmadi_lopez.md
     image_circular: true
     more_info: >
