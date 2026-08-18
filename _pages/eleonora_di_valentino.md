@@ -1,6 +1,6 @@
 ## Eleonora Di Valentino
 
-Eleonora Di Valentino is a cosmologist at the University of Sheffield.
+Eleonora Di Valentino is a professor at the University of Sheffield.
 Her research explores cosmological parameters, dark energy, neutrino physics,
 extensions of the standard cosmological model, and the Hubble tension.
 
