@@ -12,7 +12,7 @@ profiles:
     content: somasri_sen.md
     image_circular: true
     more_info: >
-      <p>Associate Professor</p>
+      <p>Professor</p>
       <p>Jamia Millia Islamia, New Delhi, India</p>
 
   - align: left
@@ -20,7 +20,7 @@ profiles:
     content: jose_alberto_vazquez.md
     image_circular: true
     more_info: >
-      <p>Researcher</p>
+      <p>Professor</p>
       <p>ICF–UNAM, Cuernavaca, Mexico</p>
 
   - align: right
@@ -28,7 +28,7 @@ profiles:
     content: eleonora_di_valentino.md
     image_circular: true
     more_info: >
-      <p>Researcher in Cosmology</p>
+      <p>Professor</p>
       <p>University of Sheffield, United Kingdom</p>
 
   - align: left
@@ -36,7 +36,7 @@ profiles:
     content: anjan_ananda_sen.md
     image_circular: true
     more_info: >
-      <p>Professor</p>
+      <p>Senior Professor</p>
       <p>Centre for Theoretical Physics, Jamia Millia Islamia</p>
 
   - align: right
@@ -52,7 +52,7 @@ profiles:
     content: sunny_vagnozzi.md
     image_circular: true
     more_info: >
-      <p>Researcher in Theoretical Cosmology</p>
+      <p>Professor</p>
       <p>University of Trento, Italy</p>
 
   - align: right
@@ -68,6 +68,6 @@ profiles:
     content: mariam_bouhmadi_lopez.md
     image_circular: true
     more_info: >
-      <p>Professor of Theoretical Physics</p>
+      <p>Senior Professor</p>
       <p>University of the Basque Country, Bilbao, Spain</p>
 ---
